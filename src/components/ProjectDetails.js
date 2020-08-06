@@ -10,12 +10,12 @@ const ProjectDetails=({project})=>{
                <strong>{project.title}</strong>
             </h1>
     <p className="section__subtitle section__subtitle--intro">{project.team?"As a part of team": "Solo project"}</p>
-            <img src={`/img/${project.img}`} alt="" className="intro__img" />
+            <img src={`/portfolio/img/${project.img}`} alt="" className="intro__img" />
         </section>
         
         <div className="portfolio-item-individual">
             <p>{project.description}</p>
-            <img src={`/img/${project.img2}`} alt="" />
+            <img src={`/portfolio/img/${project.img2}`} alt="" />
             <br />
              <p><strong>Langauages and Technologies used: </strong> {project.languages}</p>
             {project.featuresIDeveloped&&<p><strong>Features I Developed:</strong>
