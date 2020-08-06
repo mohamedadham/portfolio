@@ -15,7 +15,7 @@ const AboutMe=()=>{
                     Recently I am interested in MERN Stack, but also have Java, Python, Laravel, php, Ruby, Angular under my belt. I am still enthusiastically learning new frameworks, technologies, or principles. </p>
                 </div>
 
-                <img src="img/adham2.jpg" alt="Jane leaning against a bus" className="about-me__img" />
+                <img src="/portfolio/img/adham2.jpg" alt="Jane leaning against a bus" className="about-me__img" />
         </section>
     )
 }

@@ -7,7 +7,7 @@ const Intro = () => {
                 Hi, I am <strong>Mohamed <span>Adham</span></strong>
             </h1>
             <p className="section__subtitle section__subtitle--intro">Full-Stack developer</p>
-            <img src="img/adham-1.jpg" alt="a picture of Mohamed Adham smiling" className="intro__img" />
+            <img src="/portfolio/img/adham-1.jpg" alt="a picture of Mohamed Adham smiling" className="intro__img" />
         </section>
     )
 }
