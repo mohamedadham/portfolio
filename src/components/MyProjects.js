@@ -10,7 +10,7 @@ const MyProjectCard = ({projects}) => {
             <div class="portfolio">
                 {projects&&
                    projects.map((project)=>(
-                        <Link to={`/project/${project.id}`} class="portfolio__item">
+                        <Link to={`/portfolio/project/${project.id}`} class="portfolio__item">
                             <img src={`img/${project.img}`} alt="" class="portfolio__img" />
                             <div class="middle">
                                 <div class="text">{project.languages}</div>
