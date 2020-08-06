@@ -15,7 +15,7 @@ const Main = () => {
         <>
             <div className="content">
                 <Switch>
-                    <Route path="portfolio/project/:id" component={ProjectWithId} />
+                    <Route path="/portfolio/project/:id" component={ProjectWithId} />
                     <Route component={LandingPage} />
                 </Switch>
             </div>
