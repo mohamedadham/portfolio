@@ -28,7 +28,7 @@ export const projectsData=[
     {
         title:"Yalanotlob - MEAN",
         description:`Yalanotlob is web application allows the users to make order and add friends or group of friends to their orders.`,
-        languages:"Angular 9 & NodeJS",
+        languages:"Angular 9 & NodeJS & Mongoose",
         featuresIDeveloped:[
             "Session based Authentication System",
             "User can add friends",
@@ -43,6 +43,7 @@ export const projectsData=[
         img:"yalanotlob-mean01.png",
         img2:"yalanotlobmean-02.png",
         githublink:"https://github.com/mohamedadham/Yallanotlob--MEAN",
+        link:"https://drive.google.com/file/d/1e5gW4o4ap1qyKcWwAnSEir0XvyJsWWRI/view",
         id:2,
     },
     {
