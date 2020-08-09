@@ -56,8 +56,10 @@ export const projectsData=[
             "User's Books",
         ],
         team:true,
-        img:"goodreads-01.png",
+        img:"goodread-01.png",
+        img2:"goodread-02.png",
         githublink:"https://github.com/mohamedadham/goodreads-mock",
+        link:"https://drive.google.com/file/d/1ee3b6Kn77mrifxK9wrWaLMN4BmOEWf8E/view?usp=sharing",
         id:3,
     },
     {
